@@ -5,5 +5,5 @@ services:
     image: htetlinmaung/broadcastservice
     build: .
     ports:
-      - "8888:3000"
+      - "7777:3000"
     
