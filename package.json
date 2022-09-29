@@ -1,0 +1,20 @@
+{
+  "name": "broadcast_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "starless-server start",
+    "dev": "nodemon node_modules/starless-server start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "starless-server": "^1.8.6"
+  },
+  "dependencies": {
+    "code-alchemy": "^1.0.26"
+  }
+}

@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  broadcastservice:
+    image: htetlinmaung/broadcastservice
+    build: .
+    ports:
+      - "8888:3000"
+    
