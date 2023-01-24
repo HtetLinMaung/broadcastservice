@@ -15,6 +15,7 @@
     "starless-server": "^1.8.6"
   },
   "dependencies": {
-    "code-alchemy": "^1.0.26"
+    "code-alchemy": "^1.0.26",
+    "jsonwebtoken": "^8.5.1"
   }
 }
